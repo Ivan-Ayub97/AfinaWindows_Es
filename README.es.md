@@ -20,7 +20,7 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 # Descarga
 
-[Descargar AfinaWindows1.3_Es.exe en formato .zip desde Google Drive](https://drive.google.com/file/d/1sWI1DmgsZ7z0v8qtPX9Ju0pe0HKfVf-a/view?usp=sharing)
+[Haz clic aquí para descargar la última versión 1.3.0](https://github.com/Ivan-Ayub97/AfinaWindows/releases/download/1.3.0/AfinaWindows.exe)  
 
 ## Características Principales
 
