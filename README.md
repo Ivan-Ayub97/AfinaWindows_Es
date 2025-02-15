@@ -1,4 +1,4 @@
-# EncorPDF
+# AfinaWindows
 
 ES: ¡Bienvenido al repositorio del Proyecto AfinaWindows! Este repositorio incluye documentación tanto en **español** como en **inglés**.
 
