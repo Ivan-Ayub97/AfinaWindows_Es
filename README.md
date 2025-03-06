@@ -20,7 +20,7 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 # Descarga
 
-[Haz clic aquí para descargar la última versión 1.3.0](https://github.com/Ivan-Ayub97/AfinaWindows/releases/download/1.3.0/AfinaWindows1.3.0_Es.exe)  
+[Haz clic aquí para descargar la última versión 1.3.0](https://drive.google.com/file/d/1PndMMLBZhqZIizDtDOQ7kbKbZ79QY2_O/view?usp=sharing)  
 
 ## Características Principales
 
